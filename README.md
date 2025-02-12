@@ -1,4 +1,4 @@
-# DTech Connect Copilot - Interactive Copilot agent project for Contoso, Inc. 
+# Tech Connect Copilot - Interactive Copilot agent project for Contoso, Inc. 
 
 This project is a collaborative effort between Microsoft and Contoso, Inc. to create an interactive Copilot agent that can read data in a data table inside of an Azure Storage Account, and utilize it to help users self-serve their basic technical support needs.  The flow of this project is as follows:
 
