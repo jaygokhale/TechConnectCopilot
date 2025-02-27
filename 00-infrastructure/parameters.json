@@ -3,28 +3,28 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "aoai_name": {
-            "value": "<desired name of your AOAI resource"
+            "value": "aoaijay1"
         },
         "searchServices_name": {
-            "value": "<desired name of your search service>"
+            "value": "search1"
         },
         "storageAccounts_name": {
-            "value": "<desired name of your storage account>"
+            "value": "storage1"
         },
         "searchServices_externalid": {
             "value": "<complete external ID of search service>"
         },
         "location": {
-            "value": "<desired location>"
+            "value": "eastus"
         },
         "environmentTag": {
-            "value": "<your env tag>"
+            "value": "env1"
         },
         "CustomSubDomainName": {
-            "value": "<desired subdomain name>"
+            "value": "subdomain"
         },
         "gpt_deployment_name": {
-            "value": "<desired GPT deployment name if using classical data>"
+            "value": "gptdeploymentname"
         }
 
     }
