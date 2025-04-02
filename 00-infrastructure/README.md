@@ -1,4 +1,4 @@
-# DSWCopilot - Azure Assets deployment
+# Azure Assets deployment
 
 ## Steps to deploy to azure
 
