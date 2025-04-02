@@ -2,7 +2,7 @@
 
 ## Steps to deploy to azure
 
-1.  Install az cli using the distribution of your choice from the link below. 
+1.  Install az cli using the distribution of your choice from the link below. Here are instructions on how to install the azure CLI. https://learn.microsoft.com/en-us/cli/azure/install-azure-cli . If the Azure Cli is already installed you can check with az --version. 
 2.  After install, do az cli --use-device-login.  This will display a link and a code.  Copy the link to your browser and enter the code.  This will authenticate you to your azure account.
 3.  run the following command to create a resource group.  Replace the values in <> with your own values.
     az group create --name <your-resource-group-name> --location <your-location>
